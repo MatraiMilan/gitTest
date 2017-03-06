@@ -2,3 +2,5 @@ alma
 citrom
 dinnye
 barack
+narancs
+szilva
